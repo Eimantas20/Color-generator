@@ -1,0 +1,49 @@
+
+body {
+    margin: 0;
+    height: 100vh;
+	font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+}
+
+h1 {
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+h3 {
+	font: 900 1em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+}
+
+h4 {
+    font-size: 2rem;
+    margin-bottom: 0px;
+    margin-top: 35px;
+    display: inline-block;
+}
+
+button {
+    margin-top: 50px;
+    font-size: 4rem;
+    padding: 0.5em;
+    background-color:brown;
+    transition-property: all;
+    border-width: 10px;
+    border-radius: 15px;
+    box-shadow: 13px 13px 15px rgba(0,0,0,0.6);
+}
+
+#inline {
+    display: inline-block;
+}
